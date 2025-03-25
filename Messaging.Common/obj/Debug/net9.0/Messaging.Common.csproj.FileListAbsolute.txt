@@ -1,0 +1,11 @@
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\bin\Debug\net9.0\Messaging.Common.deps.json
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\bin\Debug\net9.0\Messaging.Common.dll
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\bin\Debug\net9.0\Messaging.Common.pdb
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\obj\Debug\net9.0\Messaging.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\obj\Debug\net9.0\Messaging.Common.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\obj\Debug\net9.0\Messaging.Common.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\obj\Debug\net9.0\Messaging.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\obj\Debug\net9.0\Messaging.Common.dll
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\obj\Debug\net9.0\refint\Messaging.Common.dll
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\obj\Debug\net9.0\Messaging.Common.pdb
+C:\Users\Ricardo\source\repos\MessagingStudies\Messaging.Common\obj\Debug\net9.0\ref\Messaging.Common.dll
